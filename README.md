@@ -21,3 +21,7 @@ The project is created with:
 python main.py
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------
+## Members of the Project
+Shardul Limaye 30
+Parth Gadekar 35
+Suyog Morankar 39
